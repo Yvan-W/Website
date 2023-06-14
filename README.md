@@ -1,3 +1,9 @@
+<style>
+img{
+    width: 60%;
+}
+
+
 # 欢迎来到Yvan 数据库 WSA 分享分支
 如有什么疑问欢迎入群探讨 ：
 ## 使用方法
@@ -10,10 +16,6 @@
 
 ## 欢迎捐赠
 
-<style>
-img{
-    width: 60%;
-}
 
 ![image](https://raw.iqiq.io/Yvan-W/Website/main/WeChat.png)
 ![image](https://raw.iqiq.io/Yvan-W/Website/main/Alipay.jpg)
