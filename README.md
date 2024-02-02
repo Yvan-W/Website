@@ -10,4 +10,4 @@
 
 ## 欢迎捐赠
 
-<img src="https://raw.iqiq.io/Yvan-W/Website/main/WeChat.png" width="500px"><img src="https://raw.iqiq.io/Yvan-W/Website/main/Alipay.jpg" width="500px">
+<img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Yvan-W/Website/main/WeChat.png" width="500px"><img src="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Yvan-W/Website/main/Alipay.jpg" width="500px">
